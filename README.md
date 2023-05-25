@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel 👋
 
 - 🔭 Hoje acompanho o curso Explorer da Rocketseat
-- 🌱 Estudando JS, TS e React
+- 🌱 Estudando HTML, CSS, REACT, JS e MySQL
 - 💻 Discord: Ga#0001
 
 <div style="display: inline_block"><br>
